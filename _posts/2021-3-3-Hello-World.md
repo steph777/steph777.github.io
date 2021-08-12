@@ -1,6 +1,6 @@
 ---
 layout: post
-title: beginning
+title: my first blog
 ---
 ###  Header 3
 **bold text**
