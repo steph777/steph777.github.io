@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Da li je korona ili nije
 permalink: /about/
 ---
 
-Some information about you!
+Ja sam mali visaless covek
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Nema sta puno da se kaze iskreno
 
-### Contact me
+### 064 bla bla bla
 
-[email@domain.com](mailto:email@domain.com)
+[gmail@domain.com](mailto:email@domain.com)
