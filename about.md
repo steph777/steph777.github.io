@@ -8,7 +8,7 @@ Ja sam mali visaless covek
 
 ### More Information
 
-Nema sta puno da se kaze iskreno
+Nema sta puno da se kaze iskreno o meni za sada
 
 ### 064 bla bla bla
 
