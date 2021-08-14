@@ -2,8 +2,8 @@
 layout: post
 title: My first blog
 ---
-###  Header 3
-**bold text**
+###  Korona 2021
+**posledice**
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
